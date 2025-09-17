@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleCrudApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93a25a3383043c3d1e5f987180a4ab625e351fb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ce0e87e39f7bb8b09005dbe9395ea633589dcbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleCrudApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleCrudApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

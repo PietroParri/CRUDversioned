@@ -11,12 +11,18 @@ public class PersonController
 {
     private readonly List<Person> _people = new();
     private int _nextId = 1;
+    public void Print(string input, ConsoleColor color)
+    {
+        Console.ForegroundColor = color;
+        Console.Write(input);
+        Console.ResetColor();
+    }
 
     public void Create(string name, int age)
     {
+        name = char.ToUpper(name[0]) + name.Substring(1);
         var person = new Person { Id = _nextId++, Name = name, Age = age };
         _people.Add(person);
-        Console.WriteLine("Person added successfully!");
     }
 
     public List<Person> GetAll()
@@ -24,10 +30,17 @@ public class PersonController
         return _people;
     }
 
+    public bool Check(int id)
+    {
+        var person = _people.FirstOrDefault(p => p.Id == id);
+        if (person == null)
+            return false;
+        return true;
+    }
+
     public bool Update(int id, string newName, int newAge)
     {
         var person = _people.FirstOrDefault(p => p.Id == id);
-        if (person == null) return false;
 
         person.Name = newName;
         person.Age = newAge;
