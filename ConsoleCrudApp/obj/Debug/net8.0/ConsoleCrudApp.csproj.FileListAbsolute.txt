@@ -1,0 +1,14 @@
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\bin\Debug\net8.0\ConsoleCrudApp.exe
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\bin\Debug\net8.0\ConsoleCrudApp.deps.json
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\bin\Debug\net8.0\ConsoleCrudApp.runtimeconfig.json
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\bin\Debug\net8.0\ConsoleCrudApp.dll
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\bin\Debug\net8.0\ConsoleCrudApp.pdb
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\obj\Debug\net8.0\ConsoleCrudApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\obj\Debug\net8.0\ConsoleCrudApp.AssemblyInfoInputs.cache
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\obj\Debug\net8.0\ConsoleCrudApp.AssemblyInfo.cs
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\obj\Debug\net8.0\ConsoleCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\obj\Debug\net8.0\ConsoleCrudApp.dll
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\obj\Debug\net8.0\refint\ConsoleCrudApp.dll
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\obj\Debug\net8.0\ConsoleCrudApp.pdb
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\obj\Debug\net8.0\ConsoleCrudApp.genruntimeconfig.cache
+C:\Users\pietr\source\repos\ConsoleCrudApp\ConsoleCrudApp\obj\Debug\net8.0\ref\ConsoleCrudApp.dll
